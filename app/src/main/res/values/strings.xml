@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CineGlass</string>
+    <string name="tab_movies">Movies</string>
+    <string name="tab_series">Series</string>
+    <string name="tab_anime">Anime</string>
+    <string name="tab_addons">Add-ons</string>
+    <string name="tab_upload">Upload</string>
+    <string name="cd_search">Search catalog</string>
+    <string name="cd_downloads">Offline downloads</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_play">Play video</string>
+    <string name="cd_pause">Pause video</string>
+    <string name="cd_bookmark">Toggle watchlist</string>
+    <string name="cd_download_item">Download for offline viewing</string>
+    <string name="cd_delete">Delete item</string>
+    <string name="cd_fullscreen">Toggle fullscreen</string>
+    <string name="cd_quality">Select video quality</string>
+    <string name="cd_language">Select audio and subtitle language</string>
+    <string name="cd_sync_repo">Sync repository</string>
+    <string name="cd_close">Close</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "CineGlass",
+  "description": "Glassmorphic streaming hub for movies, web series, and anime with multi-language HD playback, JSON catalog repositories, offline downloads, and community uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
